@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Power Spots": {
+            "applicationId": "sTix3fPmiVFP3n2sxEl2SHQLyVIBRJkzll2xouGf", 
+            "masterKey": "v1x4N04XN2rSMVkE8p6DwhqP0CaCu0WxhsFNWVrj"
+        }, 
+        "_default": {
+            "link": "Power Spots"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.17"
+    }
+}
